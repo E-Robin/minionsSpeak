@@ -1,0 +1,27 @@
+body{
+    background-color:bisque;
+    text-align: center;
+ margin:auto;
+}
+textarea {
+    margin: auto;
+    width: 60%;
+    height: 10vh;
+    display: block;
+    margin-bottom: 1rem;
+
+    background-color: rgba(179, 235, 235, 0.959);
+}
+
+#output {
+    
+    border: 1px solid black;
+    height: 10vh;
+    width: 60%;
+    margin: auto;
+    background-color: rgba(255, 127, 80, 0.294);
+    margin-top: 1rem;
+}
+button{
+    background-color: coral;
+}
